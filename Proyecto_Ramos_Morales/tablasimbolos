@@ -1,0 +1,31 @@
+TABLA DE SÍMBOLOS
+24 entries
+
++-------+---------+------------------------------+
+|   -   |  TIPO   |        TOKEN = VALOR         |
++-------+---------+------------------------------+
+| 1     | ENTERO  |  rest = 0
+| 2     |FLOTANTE |  atributo = 0.000000
+| 3     | ENTERO  |  valor = 0
+| 4     | ENTERO  |  parametro = 0
+| 5     | ENTERO  |  b = 64
+| 6     | ENTERO  |  a = 5
+| 7     | ENTERO  |  i = 2
+| 8     | ENTERO  |  x = 3
+| 9     | CARACTER    |  inicial = -112.000000
+| 10    |FLOTANTE |  vrd = 0.000000
+| 11    | STRING  |  nombre = -16.000000
+| 12    | ENTERO  |  sum = 2
+| 13    | ENTERO  |  m = 0
+| 14    | PALABRA |  float
+| 15    | PALABRA |  int
+| 16    | PALABRA |  return
+| 17    | PALABRA |  print
+| 18    | PALABRA |  break
+| 19    | PALABRA |  for
+| 20    | PALABRA |  while
+| 21    | PALABRA |  do
+| 22    | PALABRA |  else
+| 23    | PALABRA |  if
+| 24    | PALABRA |  main
++-------+---------+------------------------------+

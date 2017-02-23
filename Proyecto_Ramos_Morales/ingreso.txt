@@ -1,0 +1,37 @@
+main(int:m) {
+	int:sum;
+	sum=2*4/3;
+	string:nombre;
+	nombre="wilson";
+	float:vrd;
+	vrd=0;
+	char:inicial;          //caracter
+	inicial='w';
+	error=if;
+		
+	/*
+	Funcion If
+	*/
+	if(vrd==1){
+	int:x;
+	x=3;
+		}
+	int:i;
+	int:a;
+	a=5;
+	for(i=1;i<x;i++){
+	a=5*8/8;
+	}
+	int:b;
+	b=64;
+
+	int funcion(int:parametro){
+		
+		int:valor;
+		float:atributo;
+	
+		}
+	int:rest;
+	
+ 
+}
